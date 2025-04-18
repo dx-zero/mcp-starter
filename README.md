@@ -1,6 +1,9 @@
 # MCP Server Starter
 
 ![mcp starter](/public/banner.png)
+<a href="https://glama.ai/mcp/servers/@instructa/mcp-starter">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@instructa/mcp-starter/badge" alt="Starter MCP server" />
+</a>
 <p>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat&colorA=18181B&colorB=28CF8D" alt="License">
   <!-- Add other relevant badges here, e.g., build status, stars -->
@@ -181,4 +184,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 * [AI Prompts](https://github.com/instructa/ai-prompts/blob/main/README.md) - Curated AI Prompts for Cursor AI, Cline, Windsurf and Github Copilot
 * [codefetch](https://github.com/regenrek/codefetch) - Turn code into Markdown for LLMs with one simple terminal command
-* [aidex](https://github.com/regenrek/aidex) A CLI tool that provides detailed information about AI language models, helping developers choose the right model for their needs.# mcp-starter
+* [aidex](https://github.com/regenrek/aidex) A CLI tool that provides detailed information about AI language models, helping developers choose the right model for their needs.
